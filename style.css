@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    padding-bottom:30px;
+}
+ul,li{
+    display:inline;
+}
+li{
+    color:grey;
+    cursor: pointer;
+    margin-right: 10px;
+}
+li:hover{
+    color: white;
+}
+ 
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-top: 20px;
+}
+.product{
+    text-align: center;
+}
+.box:hover{
+cursor: pointer;
+color:gray;
+background-color: black;
+}
+form{
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+table{
+    color: white;
+    text-align: center;
+    margin: auto;
+
+}
+
